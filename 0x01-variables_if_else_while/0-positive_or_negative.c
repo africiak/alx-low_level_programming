@@ -20,7 +20,5 @@ else
 printf("%d is zero\n", n);
 return (0);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
+
+gcc - Wall - Werror - Wextra - pedantic - std = gnu89 -o  
