@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-*main - a program to print the alphabet in lowercase using putchar
-*
-*
-*/
+ * main - Entry point
+ *
+ * Return: 0
+ */
 int main(void)
 {
 	char a = 'a';

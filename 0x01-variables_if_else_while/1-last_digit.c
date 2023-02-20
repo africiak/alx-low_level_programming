@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - prints the last digit of n
- * and if n is greater than 5, 0 ,or less than 6
+ * main - Entry point
  *
+ * Return: 0
  */
 
 int main(void)
@@ -25,5 +25,4 @@ int main(void)
 	else
 		printf("less than 6 and not 0\n");
 	return (0);
-	/* returns the last digit of n, and if n is greater than 5, 0 ,or less than 6*/
 }
