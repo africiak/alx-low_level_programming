@@ -11,5 +11,6 @@ void print_array(int *a, int n);
 char *_strcpy(char *dest, char *src);
 void rev_string(char *s);
 void print_rev(char *s);
+int _putchar(char c);
 
 #endif
